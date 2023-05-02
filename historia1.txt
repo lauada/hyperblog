@@ -1,2 +1,4 @@
 historia 1 ejemplo para practicar 
-supongamos que este es el nuevo inico 20
+supongamos que este el inicio fue ayer, pero hoy es diferente
+
+como empezar?
